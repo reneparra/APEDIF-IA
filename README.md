@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔍 APEDIF IA
 
 **Análisis de Evidencia Digital Forense con Inteligencia Artificial**
@@ -154,7 +155,7 @@ Este proyecto está bajo la Licencia MIT. Ver archivo [LICENSE](LICENSE) para m�
 
 **René Alejandro Parra Almirón**
 
-- 📧 Email: [tu_email@ejemplo.com]
+- 📧 Email: [RENE.PARRA82@GMAIL.COM]
 - 🎓 Licenciatura en Ciencias de Datos
 - 🏫 Universidad Católica de Salta (UCASAL)
 - 📅 Año: 2025
@@ -163,7 +164,6 @@ Este proyecto está bajo la Licencia MIT. Ver archivo [LICENSE](LICENSE) para m�
 
 ## 🙏 Agradecimientos
 
-- **Director de Tesis:** Ing. Mario Martínez
 - **Institución:** Universidad Católica de Salta
 - **Tecnologías utilizadas:** Python, CustomTkinter, Ollama, Llama 3.1 8B
 
@@ -187,3 +187,7 @@ APEDIF IA es un **prototipo educativo** desarrollado con fines académicos. No e
 - [Ollama](https://ollama.ai/) - Plataforma de IA local
 - [CustomTkinter](https://customtkinter.tomschimansky.com/) - Framework GUI
 - [Python](https://www.python.org/) - Lenguaje de programación
+=======
+# APEDIF-IA
+Análisis de Evidencia Digital Forense con Inteligencia Artificial - Prototipo educativo con IA local
+>>>>>>> d10b1bf769c0bb76875e94036e632cd0309db81e
